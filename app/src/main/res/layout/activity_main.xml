@@ -73,6 +73,7 @@
             android:textColor="@color/colorText"
             android:textStyle="bold"
             android:textSize="20sp"/>
+
     </LinearLayout>
 
 </RelativeLayout>
