@@ -6,8 +6,8 @@
     <string name="initial_score">Score 0/13</string>
 
 
-    <string name="incorrect_toast">Wrong!</string>
-    <string name="correct_toast">You got it!</string>
+    <string name="incorrect_toast">Errou!</string>
+    <string name="correct_toast">Acertou!</string>
 
     <string name="question_1">Valentine\'s day is banned in Saudi Arabia.</string>
     <string name="question_2">A slug\'s blood is green.</string>
@@ -22,5 +22,6 @@
     <string name="question_11">The loudest sound produced by any animal is 188 decibels. That animal is the African Elephant.</string>
     <string name="question_12">No piece of square dry paper can be folded in half more than 7 times.</string>
     <string name="question_13">Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.</string>
+    <string name="question_14">Chocolate 232 affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.</string>
 
 </resources>
